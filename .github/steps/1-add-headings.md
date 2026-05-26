@@ -1,6 +1,6 @@
 ## Step 1: Add headings
 
-**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub such as:
+**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for creating formatted text. You can use Markdown in most places around GitHub:
 
 - Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
 - Files with the `.md` or `.markdown` extension
@@ -10,6 +10,8 @@
 
 ### Example
 
+<span style="color: green;">
+
 ```md
 # This is an `<h1>` heading, which is the largest
 
@@ -17,6 +19,8 @@
 
 ###### This is an `<h6>`heading, which is the smallest
 ```
+
+</span>
 
 # This is an `<h1>` heading, which is the largest
 
@@ -32,31 +36,47 @@
 
 1. Create a new branch with the following name:
 
+   <span style="color: green;">
+
    ```md
    start-blog
    ```
+
+   </span>
 
 1. Above the files list, click the **Add file** button and select **Create new file**.
 
 1. Use the following file name.
 
+   <span style="color: green;">
+
    ```md
    day-1.md
    ```
 
+   </span>
+
 1. In the editor, on the first line use a level one heading to give the page a title.
+
+   <span style="color: green;">
 
    ```md
    # Daily Learning
    ```
 
+   </span>
+
 1. Add a couple level 2 headings for the names of each of the blog posts.
+
+   <span style="color: green;">
 
    ```md
    ## Morning Planning
 
    ## Review
    ```
+
+   </span>
 
 1. Above the editor, click the **Preview** toggle to view the rendered version.
 
